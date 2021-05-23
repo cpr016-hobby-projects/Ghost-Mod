@@ -1,3 +1,16 @@
+## Navigation
+
+##### Strategy Cube Project
+Link: https://github.com/cpr016-hobby-projects/Strategy-Cube-Project
+
+##### Finis Bot
+Link: https://github.com/cpr016-hobby-projects/Finis-Bot
+
+##### Ghost Mod
+Link: https://github.com/cpr016-hobby-projects/Ghost-Mod
+
+---
+
 # Ghost-Mod
 ## Tools Used: MCreator, Java
 ## Description:
